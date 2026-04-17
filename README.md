@@ -4,15 +4,15 @@
 
 </div>
 
-  # ☢️𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓
+  # ☢️𝐀𝐒𝐈𝐅 𝐆𝐎𝐓𝐀 𝐁𝐎𝐓 ⚰️
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=MESSENGER+MULTI-DEVICE+BOT;ISLAMIC+GOAT+BOT+;POWERFUL+ADMIN+TOOLS;24%2F7+ACTIVE+SERVICE;This+repository+is;controlled+by+Ullash.)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://github.com/cyber-ullash/CYBER-GOAT-BOT">
-      <img title="Stars" src="https://img.shields.io/github/stars/cyber-ullash/CYBER-GOAT-BOT?color=cyan&style=for-the-badge&logo=github">
+    <a href="https://github.com/cyber-ASIF/ASIF-GOAT-BOT">
+      <img title="Stars" src="https://img.shields.io/github/stars/cyber-Asif/ASIF-GOAT-BOT?color=cyan&style=for-the-badge&logo=github">
     </a>
-    <a href="https://github.com/cyber-ullash/CYBER-GOAT-BOT/forks">
+    <a href="https://github.com/cyber-ASIF/CYBER-GOAT-BOT/forks">
       <img title="Forks" src="https://img.shields.io/github/forks/cyber-ullash/CYBER-GOAT-BOT?color=cyan&style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/cyber-ullash/CYBER-GOAT-BOT">
